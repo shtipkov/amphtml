@@ -588,6 +588,10 @@ export const adConfig = {
     ],
   },
 
+  tracdelight: {
+    prefetch: 'https://localhost:8181/test.js'
+  },
+
   triplelift: {},
 
   valuecommerce: {
